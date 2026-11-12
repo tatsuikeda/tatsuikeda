@@ -4,14 +4,16 @@ I run [Tech Health Ventures](https://techhealthventures.com), an AI consulting a
 
 When I fix the same problem twice, I turn the fix into a tool and publish it here. Everything below is free and MIT licensed.
 
+**Featured: [Sextant](https://github.com/tatsuikeda/sextant)**
+
+One command turns a stock Firefox or Chrome on macOS, Windows or Ubuntu into a faster, ad-free, tracker-resistant browser, through the browsers' own administrator policies. One command removes it all.
+
 **Networks and firewalls**
 
 | Tool | What it does |
 |---|---|
 | [pfsense-audit-skill](https://github.com/tatsuikeda/pfsense-audit-skill) | Read-only pfSense audit that catches the quiet failures checklists miss |
-| [endpoint_checker](https://github.com/tatsuikeda/endpoint_checker) | Is it DNS or a real outage? Tests a site through five public resolvers |
-| [netpulse](https://github.com/tatsuikeda/netpulse) | Load times, DNS, ping, MTU and traceroute in one report |
-| [internet_connection_monitor](https://github.com/tatsuikeda/internet_connection_monitor) | Logs every drop and emails you the outage record when you're back |
+| [MacPractice-Connection-Monitor](https://github.com/tatsuikeda/MacPractice-Connection-Monitor) | Watches a MacPractice server for dental and medical offices and alerts when something breaks |
 
 **Mac**
 
@@ -24,12 +26,10 @@ When I fix the same problem twice, I turn the fix into a tool and publish it her
 | [macos-spotlight-rebuilder](https://github.com/tatsuikeda/macos-spotlight-rebuilder) | Rebuilds Spotlight when search stops finding things |
 | [menubar-ejector](https://github.com/tatsuikeda/menubar-ejector) | One click ejects every external drive |
 
-**Browsers, Linux and media**
+**Transcription**
 
 | Tool | What it does |
 |---|---|
-| [sextant](https://github.com/tatsuikeda/sextant) | One command makes Firefox or Chrome faster, ad-free and tracker-resistant |
-| [smooth-apple-magic-trackpad-linux](https://github.com/tatsuikeda/smooth-apple-magic-trackpad-linux) | Mac-style acceleration and gestures for Magic Trackpads on Linux |
 | [simple-video-transcriber](https://github.com/tatsuikeda/simple-video-transcriber) | Local Whisper transcription; recordings never leave your machine |
 
 **Work with me**
