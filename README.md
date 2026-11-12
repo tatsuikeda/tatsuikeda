@@ -2,7 +2,7 @@
 
 I run [Tech Health Ventures](https://techhealthventures.com), an AI consulting and engineering practice in Boston. I've been at it since 2000: networks, security, cloud, software, Macs, and now mostly putting AI to work for teams who need it to hold up under real load.
 
-When I fix the same problem twice, I turn the fix into a tool and publish it here. Everything below is free and MIT licensed unless the repo says otherwise.
+When I fix the same problem twice, I turn the fix into a tool and publish it here. Everything below is free and MIT licensed.
 
 **Networks and firewalls**
 
@@ -24,10 +24,11 @@ When I fix the same problem twice, I turn the fix into a tool and publish it her
 | [macos-spotlight-rebuilder](https://github.com/tatsuikeda/macos-spotlight-rebuilder) | Rebuilds Spotlight when search stops finding things |
 | [menubar-ejector](https://github.com/tatsuikeda/menubar-ejector) | One click ejects every external drive |
 
-**Linux and media**
+**Browsers, Linux and media**
 
 | Tool | What it does |
 |---|---|
+| [sextant](https://github.com/tatsuikeda/sextant) | One command makes Firefox or Chrome faster, ad-free and tracker-resistant |
 | [smooth-apple-magic-trackpad-linux](https://github.com/tatsuikeda/smooth-apple-magic-trackpad-linux) | Mac-style acceleration and gestures for Magic Trackpads on Linux |
 | [simple-video-transcriber](https://github.com/tatsuikeda/simple-video-transcriber) | Local Whisper transcription; recordings never leave your machine |
 
