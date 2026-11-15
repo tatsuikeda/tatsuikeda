@@ -34,5 +34,3 @@ One command turns a stock Firefox or Chrome on macOS, Windows or Ubuntu into a f
 ### Work with me
 
 The two-week [AI Engineering Audit + Strategy Sprint](https://techhealthventures.com/ai-sprint), [fractional CTO](https://techhealthventures.com/fractional-cto) work, and [IT and Mac consulting](https://techhealthventures.com/it-consulting-boston) in Boston. You work with me directly.
-
-[Website](https://techhealthventures.com) · [LinkedIn](https://linkedin.com/in/tatsu) · [Substack](https://tatsuikeda.substack.com)
