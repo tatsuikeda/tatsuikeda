@@ -13,29 +13,19 @@ When I fix the same problem twice, I turn the fix into a tool and publish it her
 
 One command turns a stock Firefox or Chrome on macOS, Windows or Ubuntu into a faster, ad-free, tracker-resistant browser, through the browsers' own administrator policies. One command removes it all.
 
-### Networks and firewalls
+### Tools
 
-| Tool | What it does |
-|---|---|
-| [pfsense-audit-skill](https://github.com/tatsuikeda/pfsense-audit-skill) | Read-only pfSense audit that catches the quiet failures checklists miss |
-| [MacPractice-Connection-Monitor](https://github.com/tatsuikeda/MacPractice-Connection-Monitor) | Watches a MacPractice server for dental and medical offices and alerts when something breaks |
-
-### Mac
-
-| Tool | What it does |
-|---|---|
-| [install-modern-macos-tools](https://github.com/tatsuikeda/install-modern-macos-tools) | Replaces the decades-old command-line tools Apple ships |
-| [decruftifier](https://github.com/tatsuikeda/decruftifier) | Finds and removes years of accumulated macOS cruft |
-| [mac-fan-assist](https://github.com/tatsuikeda/mac-fan-assist) | Multi-sensor fan control for Intel T2 MacBook Pros, with the measurements |
-| [airdrop-mover](https://github.com/tatsuikeda/airdrop-mover) | Moves AirDrop files out of Downloads automatically |
-| [macos-spotlight-rebuilder](https://github.com/tatsuikeda/macos-spotlight-rebuilder) | Rebuilds Spotlight when search stops finding things |
-| [menubar-ejector](https://github.com/tatsuikeda/menubar-ejector) | One click ejects every external drive |
-
-### Transcription
-
-| Tool | What it does |
-|---|---|
-| [simple-video-transcriber](https://github.com/tatsuikeda/simple-video-transcriber) | Local Whisper transcription; recordings never leave your machine |
+| | Tool | What it does |
+|---|---|---|
+| **Networks and firewalls** | [pfsense-audit-skill](https://github.com/tatsuikeda/pfsense-audit-skill) | Read-only pfSense audit that catches the quiet failures checklists miss |
+|  | [MacPractice-Connection-Monitor](https://github.com/tatsuikeda/MacPractice-Connection-Monitor) | Watches a MacPractice server for dental and medical offices and alerts when something breaks |
+| **Mac** | [install-modern-macos-tools](https://github.com/tatsuikeda/install-modern-macos-tools) | Replaces the decades-old command-line tools Apple ships |
+|  | [decruftifier](https://github.com/tatsuikeda/decruftifier) | Finds and removes years of accumulated macOS cruft |
+|  | [mac-fan-assist](https://github.com/tatsuikeda/mac-fan-assist) | Multi-sensor fan control for Intel T2 MacBook Pros, with the measurements |
+|  | [airdrop-mover](https://github.com/tatsuikeda/airdrop-mover) | Moves AirDrop files out of Downloads automatically |
+|  | [macos-spotlight-rebuilder](https://github.com/tatsuikeda/macos-spotlight-rebuilder) | Rebuilds Spotlight when search stops finding things |
+|  | [menubar-ejector](https://github.com/tatsuikeda/menubar-ejector) | One click ejects every external drive |
+| **Transcription** | [simple-video-transcriber](https://github.com/tatsuikeda/simple-video-transcriber) | Local Whisper transcription; recordings never leave your machine |
 
 ### Work with me
 
