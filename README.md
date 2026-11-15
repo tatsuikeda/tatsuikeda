@@ -1,21 +1,26 @@
-### Hi, I'm Tatsu.
+<a href="https://techhealthventures.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+    <img src="banner-light.svg" alt="Tatsu Ikeda, Tech Health Ventures. AI consulting and engineering in Boston. Free tools for networks, firewalls and Macs." width="100%">
+  </picture>
+</a>
 
 I run [Tech Health Ventures](https://techhealthventures.com), an AI consulting and engineering practice in Boston. I've been at it since 2000: networks, security, cloud, software, Macs, and now mostly putting AI to work for teams who need it to hold up under real load.
 
 When I fix the same problem twice, I turn the fix into a tool and publish it here. Everything below is free and MIT licensed.
 
-**Featured: [Sextant](https://github.com/tatsuikeda/sextant)**
+### Featured: [Sextant](https://github.com/tatsuikeda/sextant)
 
 One command turns a stock Firefox or Chrome on macOS, Windows or Ubuntu into a faster, ad-free, tracker-resistant browser, through the browsers' own administrator policies. One command removes it all.
 
-**Networks and firewalls**
+### Networks and firewalls
 
 | Tool | What it does |
 |---|---|
 | [pfsense-audit-skill](https://github.com/tatsuikeda/pfsense-audit-skill) | Read-only pfSense audit that catches the quiet failures checklists miss |
 | [MacPractice-Connection-Monitor](https://github.com/tatsuikeda/MacPractice-Connection-Monitor) | Watches a MacPractice server for dental and medical offices and alerts when something breaks |
 
-**Mac**
+### Mac
 
 | Tool | What it does |
 |---|---|
@@ -26,13 +31,13 @@ One command turns a stock Firefox or Chrome on macOS, Windows or Ubuntu into a f
 | [macos-spotlight-rebuilder](https://github.com/tatsuikeda/macos-spotlight-rebuilder) | Rebuilds Spotlight when search stops finding things |
 | [menubar-ejector](https://github.com/tatsuikeda/menubar-ejector) | One click ejects every external drive |
 
-**Transcription**
+### Transcription
 
 | Tool | What it does |
 |---|---|
 | [simple-video-transcriber](https://github.com/tatsuikeda/simple-video-transcriber) | Local Whisper transcription; recordings never leave your machine |
 
-**Work with me**
+### Work with me
 
 The two-week [AI Engineering Audit + Strategy Sprint](https://techhealthventures.com/ai-sprint), [fractional CTO](https://techhealthventures.com/fractional-cto) work, and [IT and Mac consulting](https://techhealthventures.com/it-consulting-boston) in Boston. You work with me directly.
 
